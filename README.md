@@ -1,4 +1,4 @@
-# Covid-Management-System-written-in-C
+# Covid-Management-System
 Project Name: COVID Management System 
 Programming Language: C
 
