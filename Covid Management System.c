@@ -550,8 +550,8 @@ int main()
     while(1)
     {
         system("COLOR 3F");
-        printf("\n\t____COVID-19 MANAGEMENT SYSTEM____" );
-		printf("\n\t           SUROKKHA \\^/ " );
+        printf("\n\t____COVID-19 VACCINE MANAGEMENT SYSTEM____" );
+		printf("\n\t       Inspired By SUROKKHA \\^/ " );
 		printf("\n\t1. VACCINE REGISTRATION" );
 		printf("\n\t2. USER LOGIN" );
 		printf("\n\t3. ADMIN LOGIN" );
@@ -645,4 +645,3 @@ int main()
 
     return 0;
 }
-
