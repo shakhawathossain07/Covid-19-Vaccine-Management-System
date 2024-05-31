@@ -1,5 +1,7 @@
 # Covid-Management-System
 
+<img width="960" alt="image" src="https://github.com/shakhawathossain07/Covid-19-Vaccine-Management-System/assets/109748582/6d3cc7fa-16b1-4c26-a0b8-f09095bdd108">
+
 Project Name: COVID Management System
 Programming Language: C
 
