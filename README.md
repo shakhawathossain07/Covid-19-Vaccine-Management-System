@@ -23,10 +23,16 @@ The "Covid-19 Vaccine Registration" section allows individuals to register for t
 FEATURES:
 
 User/Admin login is required to access the program.
+
 View Information: Users/Admin can view stored data.
+
 Registration: Users can register for the program, and the system will provide them with an ID number and a username for login.
+<img width="960" alt="image" src="https://github.com/shakhawathossain07/Covid-19-Vaccine-Management-System/assets/109748582/77250047-f27d-44d4-8866-5edb7c8c5929">
+
 Edit Information: Users can edit their information, and administrators can also make changes.
+
 Add Information about Individuals: Administrators can input vaccine names and required doses.
+
 Return or Jump: Users can exit the program or navigate to other options.
 
 After using the program, the user must log out before another user can log in.
